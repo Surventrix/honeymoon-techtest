@@ -13,6 +13,7 @@ class Api::DestinationsControllerTest < ActionDispatch::IntegrationTest
     get api_destination_url(destination)
 
     assert_response 200
+    assert 'Barcelona', response[:name]
   end
 
   private
