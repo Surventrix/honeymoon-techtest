@@ -19,3 +19,23 @@ four:
   user: kyle
   score: 3
   destination: barcelona
+
+five:
+  user: jenny
+  score: 2
+  destination: algarve
+
+six:
+  user: kyle
+  score: 4
+  destination: algarve
+
+seven:
+  user: sam
+  score: 3
+  destination: algarve
+
+eight:
+  user: sam
+  score: 4
+  destination: zagreb

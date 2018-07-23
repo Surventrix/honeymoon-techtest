@@ -20,3 +20,9 @@ Tasks to complete
 2. Fix Destination controller test
 3. Rating model can only accept scores between 1 - 5
 4. Ensure we can test the average_rating for the destination model
+5. Return the rating from the Destination.to_h method and ensure all tests pass
+
+For more senior developers, we want to see how you solve issues with little guidance. If you are applying for the junior developer role and want to attempt this to further your application - let us know how you get on.
+
+6. Sort the list of destinations by rating or price, defaults to price - use the `sort` parameter.
+7. Display a list of destinations that have a min rating defined by the parameter `min_rating`.
